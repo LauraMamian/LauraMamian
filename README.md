@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![tryhackme stats](https://raw.githubusercontent.com/ScarletQueen/ScarletQueen/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/LauraMamian/LauraMamian/main/assets/thm_propic.png)
 
 <!--
 **LauraMamian/LauraMamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
