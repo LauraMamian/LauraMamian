@@ -8,18 +8,20 @@
 <table border="1" cellpadding="10" cellspacing="0" style="text-align: center;">
   <thead>
     <tr>
-      <th style="text-align: center;">Badge</th>
+      <th style="text-align: center;">Name</th>
       <th style="text-align: center;">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-          <img src="./assets/linux.svg" alt="linux" style="width: 100px; height: 100px;"/>
-          <span>cat linux.txt</span>
+      <td>
+      <img src="./assets/linux.svg" alt="linux" style="width: 100px; height: 100px;"/>
       </td>
-      <td>Being competent in Linux</td>
-    </tr>
+    <td rowspan='2'>cat linux.txt</td>
+  </tr>
+  <tr>
+    <td>Being competent in Linux</td>
+  </tr>
     <tr>
       <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/careerready.svg" alt="career ready" style="width: 100px; height: 100px;"/>
