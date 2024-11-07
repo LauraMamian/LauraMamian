@@ -14,76 +14,60 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center;">
-        <div style="text-align: center;">
+      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/linux.svg" alt="linux" style="width: 100px; height: 100px;"/>
-          <div>cat linux.txt</div>
-        </div>
+          <span>cat linux.txt</span>
       </td>
-      <td style="text-align: center;">Being competent in Linux</td>
+      <td>Being competent in Linux</td>
     </tr>
     <tr>
-      <td style="text-align: center;">
-        <div style="text-align: center;">
+      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/careerready.svg" alt="career ready" style="width: 100px; height: 100px;"/>
-          <div>Cyber Ready</div>
-        </div>
+          <span>Cyber Ready</span>
       </td>
-      <td style="text-align: center;">Understanding impact of training on teams</td>
+      <td>Understanding impact of training on teams</td>
     </tr>
     <tr>
-      <td style="text-align: center;">
-        <div style="text-align: center;">
+      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/blue.svg" alt="blue" style="width: 100px; height: 100px;"/>
-          <div>Blue</div>
-        </div>
+          <span>Blue</span>
       </td>
-      <td style="text-align: center;">Hacking into Windows via EternalBlue</td>
+      <td>Hacking into Windows via EternalBlue</td>
     </tr>
     <tr>
-      <td style="text-align: center;">
-        <div style="text-align: center;">
+      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/metasploit.svg" alt="metasploit" style="width: 100px; height: 100px;"/>
-          <div>Metasploitable</div>
-        </div>
+          <span>Metasploitable</span>
       </td>
-      <td style="text-align: center;">Contains the knowledge to use Metasploit.</td>
+      <td>Contains the knowledge to use Metasploit.</td>
     </tr>
     <tr>
-      <td style="text-align: center;">
-        <div style="text-align: center;">
+      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/owasptop10.svg" alt="owasp top 10" style="width: 100px; height: 100px;"/>
-          <div>OWASP Top 10</div>
-        </div>
+          <span>OWASP Top 10</span>
       </td>
-      <td style="text-align: center;">Understanding every OWASP vulnerability</td>
+      <td>Understanding every OWASP vulnerability</td>
     </tr>
     <tr>
-      <td style="text-align: center;">
-        <div style="text-align: center;">
+      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/introtooffensivesecurity.svg" alt="pentesting principles" style="width: 100px; height: 100px;"/>
-          <div>Pentesting Principles</div>
-        </div>
+          <span>Pentesting Principles</span>
       </td>
-      <td style="text-align: center;">Completing the 'Introduction to Pentesting' module.</td>
+      <td>Completing the 'Introduction to Pentesting' module.</td>
     </tr>
     <tr>
-      <td style="text-align: center;">
-        <div style="text-align: center;">
+      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/shieldapprentice.svg" alt="shield apprentice" style="width: 100px; height: 100px;"/>
-          <div>Shield Apprentice</div>
-        </div>
+          <span>Shield Apprentice</span>
       </td>
-      <td style="text-align: center;">Completing the FlareVM room</td>
+      <td>Completing the FlareVM room</td>
     </tr>
     <tr>
-      <td style="text-align: center;">
-        <div style="text-align: center;">
+      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
           <img src="./assets/swordapprentice.svg" alt="sword apprentice" style="width: 100px; height: 100px;"/>
-          <div>Sword Apprentice</div>
-        </div>
+          <span>Sword Apprentice</span>
       </td>
-      <td style="text-align: center;">Completing the SQLMap room.</td>
+      <td>Completing the SQLMap room.</td>
     </tr>
   </tbody>
 </table>
