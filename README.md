@@ -85,6 +85,16 @@
         <td>Burp'ed</td>
         <td>Completing the Burp Suite module</td>
       </tr>
+      <tr>
+        <td><img src="./assets/aoc5.svg" alt="Advent of Cyber 2024b"></td>
+        <td>Advent of Cyber 2024</td>
+        <td>Completing Advent of Cyber 2024!</td>
+      </tr>
+       <tr>
+        <td><img src="./assets/phishing.svg" alt="Phishing"></td>
+        <td>Phishing</td>
+        <td>Completing the 'Phishing' module</td>
+      </tr>
     </tbody>
   </table>
 </div>
