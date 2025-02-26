@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <h1 align="center">🔐 Information Security Platform Badges</h1>
 
-<p align="start">
+<p align="center">
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
   <img src="https://img.shields.io/badge/-Kali_Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge">
   <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
