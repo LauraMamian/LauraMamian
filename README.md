@@ -76,6 +76,11 @@
         <td>Completing the 'How The Web Works' module</td>
       </tr>
       <tr>
+        <td><img src="./assets/cyberdefenceframework.svg" alt="Skilled Navigator"></td>
+        <td>Skilled Navigator</td>
+        <td>Finishing the Eviction challenge!</td>
+      </tr>
+      <tr>
         <td><img src="./assets/introtowebsecurity.svg" alt="Intro to Web Hacking"></td>
         <td>Intro to Web Hacking</td>
         <td>Completing the 'Introduction to Web Hacking' module</td>
@@ -90,10 +95,25 @@
         <td>Advent of Cyber 2024</td>
         <td>Completing Advent of Cyber 2024!</td>
       </tr>
-       <tr>
+      <tr>
         <td><img src="./assets/phishing.svg" alt="Phishing"></td>
         <td>Phishing</td>
         <td>Completing the 'Phishing' module</td>
+      </tr>
+      <tr>
+        <td><img src="./assets/cyberthreatintellegenceblue.svg" alt="Friday Fixer"></td>
+        <td>Friday Fixer</td>
+        <td>Finishing the Friday Overtime challenge!</td>
+      </tr>
+      <tr>
+        <td><img src="./assets/introtosecurityengineering.svg" alt="Introduction to Security Engineering"></td>
+        <td>Introduction to Security Engineering</td>
+        <td>Completed the Security Engineer Intro room!</td>
+      </tr>
+      <tr>
+        <td><img src="./assets/threatsandrisks.svg" alt="Calculated Risk"></td>
+        <td>Calculated Risk</td>
+        <td>Completed the Risk Management room!</td>
       </tr>
     </tbody>
   </table>
