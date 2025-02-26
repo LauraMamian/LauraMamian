@@ -14,86 +14,106 @@
   <table>
     <thead>
       <tr>
-        <th>Badge</th>
-        <th>Name</th>
-        <th>Description</th>
+        <th style="text-align: center;">Badge</th>
+        <th style="text-align: center;">Name</th>
+        <th style="text-align: center;">Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><img src="./assets/introtooffensivesecurity.svg" alt="Pentesting Principles"></td>
-        <td>Pentesting Principles</td>
+        <td align="center"><p><img src="./assets/introtooffensivesecurity.svg" alt="Pentesting Principles" width="80" height="80"></p></td>
+        <td align="center">Pentesting Principles</td>
         <td>Completing the 'Introduction to Pentesting' module</td>
       </tr>
       <tr>
-        <td><img src="./assets/linux.svg" alt="Linux"></td>
-        <td>cat linux.txt</td>
+        <td align="center"><p><img src="./assets/linux.svg" alt="Linux" width="80" height="80"></p></td>
+        <td align="center">cat linux.txt</td>
         <td>Being competent in Linux</td>
       </tr>
       <tr>
-        <td><img src="./assets/careerready.svg" alt="Cyber Ready"></td>
-        <td>Cyber Ready</td>
+        <td align="center"><p><img src="./assets/careerready.svg" alt="Cyber Ready" width="80" height="80"></p></td>
+        <td align="center">Cyber Ready</td>
         <td>Understanding impact of training on teams</td>
       </tr>
       <tr>
-        <td><img src="./assets/metasploit.svg" alt="Metasploitable"></td>
-        <td>Metasploitable</td>
+        <td align="center"><p><img src="./assets/metasploit.svg" alt="Metasploitable" width="80" height="80"></p></td>
+        <td align="center">Metasploitable</td>
         <td>Contains the knowledge to use Metasploit</td>
       </tr>
       <tr>
-        <td><img src="./assets/blue.svg" alt="Blue"></td>
-        <td>Blue</td>
+        <td align="center"><p><img src="./assets/blue.svg" alt="Blue" width="80" height="80"></p></td>
+        <td align="center">Blue</td>
         <td>Hacking into Windows via EternalBlue</td>
       </tr>
       <tr>
-        <td><img src="./assets/owasptop10.svg" alt="OWASP Top 10"></td>
-        <td>OWASP Top 10</td>
+        <td align="center"><p><img src="./assets/owasptop10.svg" alt="OWASP Top 10" width="80" height="80"></p></td>
+        <td align="center">OWASP Top 10</td>
         <td>Understanding every OWASP vulnerability</td>
       </tr>
       <tr>
-        <td><img src="./assets/swordapprentice.svg" alt="Sword Apprentice"></td>
-        <td>Sword Apprentice</td>
+        <td align="center"><p><img src="./assets/swordapprentice.svg" alt="Sword Apprentice" width="80" height="80"></p></td>
+        <td align="center">Sword Apprentice</td>
         <td>Completing the SQLMap room</td>
       </tr>
       <tr>
-        <td><img src="./assets/shieldapprentice.svg" alt="Shield Apprentice"></td>
-        <td>Shield Apprentice</td>
+        <td align="center"><p><img src="./assets/shieldapprentice.svg" alt="Shield Apprentice" width="80" height="80"></p></td>
+        <td align="center">Shield Apprentice</td>
         <td>Completing the FlareVM room</td>
       </tr>
       <tr>
-        <td><img src="./assets/networkfundamentals.svg" alt="Networking Nerd"></td>
-        <td>Networking Nerd</td>
+        <td align="center"><p><img src="./assets/networkfundamentals.svg" alt="Networking Nerd" width="80" height="80"></p></td>
+        <td align="center">Networking Nerd</td>
         <td>Completing the 'Network Fundamentals' module</td>
       </tr>
       <tr>
-        <td><img src="./assets/webbed.svg" alt="Webbed"></td>
-        <td>Webbed</td>
+        <td align="center"><p><img src="./assets/webbed.svg" alt="Webbed" width="80" height="80"></p></td>
+        <td align="center">Webbed</td>
         <td>Understands how the world wide web works</td>
       </tr>
       <tr>
-        <td><img src="./assets/howthewebworks.svg" alt="World Wide Web"></td>
-        <td>World Wide Web</td>
+        <td align="center"><p><img src="./assets/howthewebworks.svg" alt="World Wide Web" width="80" height="80"></p></td>
+        <td align="center">World Wide Web</td>
         <td>Completing the 'How The Web Works' module</td>
       </tr>
       <tr>
-        <td><img src="./assets/introtowebsecurity.svg" alt="Intro to Web Hacking"></td>
-        <td>Intro to Web Hacking</td>
+        <td align="center"><p><img src="./assets/cyberdefenceframework.svg" alt="Skilled Navigator" width="80" height="80"></p></td>
+        <td align="center">Skilled Navigator</td>
+        <td>Finishing the Eviction challenge!</td>
+      </tr>
+      <tr>
+        <td align="center"><p><img src="./assets/introtowebsecurity.svg" alt="Intro to Web Hacking" width="80" height="80"></p></td>
+        <td align="center">Intro to Web Hacking</td>
         <td>Completing the 'Introduction to Web Hacking' module</td>
       </tr>
       <tr>
-        <td><img src="./assets/burpsuite.svg" alt="Burp'ed"></td>
-        <td>Burp'ed</td>
+        <td align="center"><p><img src="./assets/burpsuite.svg" alt="Burp'ed" width="80" height="80"></p></td>
+        <td align="center">Burp'ed</td>
         <td>Completing the Burp Suite module</td>
       </tr>
       <tr>
-        <td><img src="./assets/aoc5.svg" alt="Advent of Cyber 2024b"></td>
-        <td>Advent of Cyber 2024</td>
+        <td align="center"><p><img src="./assets/aoc5.svg" alt="Advent of Cyber 2024" width="80" height="80"></p></td>
+        <td align="center">Advent of Cyber 2024</td>
         <td>Completing Advent of Cyber 2024!</td>
       </tr>
-       <tr>
-        <td><img src="./assets/phishing.svg" alt="Phishing"></td>
-        <td>Phishing</td>
+      <tr>
+        <td align="center"><p><img src="./assets/phishing.svg" alt="Phishing" width="80" height="80"></p></td>
+        <td align="center">Phishing</td>
         <td>Completing the 'Phishing' module</td>
+      </tr>
+      <tr>
+        <td align="center"><p><img src="./assets/cyberthreatintellegenceblue.svg" alt="cyberthreatintellegenceblue" width="80" height="80"></p></td>
+        <td align="center">Friday Fixer</td>
+        <td>Finishing the Friday Overtime challenge!</td>
+      </tr>
+      <tr>
+        <td align="center"><p><img src="./assets/introtosecurityengineering.svg" alt="Phishing" width="80" height="80"></p></td>
+       <td align="center">Introduction to Security Engineering</td>
+        <td>Completed the Security Engineer Intro room!</td>
+      </tr>
+      <tr>
+        <td align="center"><p><img src="./assets/threatsandrisks.svg" alt="Phishing" width="80" height="80"></p></td>
+        <td align="center">Calculated Risk</td>
+        <td>Completed the Risk Management room!</td>
       </tr>
     </tbody>
   </table>
